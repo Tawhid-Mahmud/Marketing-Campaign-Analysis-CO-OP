@@ -1,6 +1,6 @@
 ## Project Summary
 
-This capstone project analyzes data to provide a global advertising agency with actionable insights for optimizing its advertising strategies within the beauty sector. The project acknowledges the dynamic nature of the beauty industry, characterized by rapid innovation, evolving consumer preferences, and a growing digital-first audience. The core objective is to identify effective approaches to maximize ad performance, engagement, and revenue by understanding the most effective ways to reach and connect with beauty consumers. The analysis encompasses inventory analysis (evaluating ad platforms), spatial analysis (examining geographic performance), and creative analysis (assessing ad creatives) to inform recommendations for sharper targeting and improved campaign outcomes.
+This project delivers actionable insights to optimize our advertising strategies for clients within the dynamic beauty sector. We recognize the industry's rapid innovation, evolving consumer preferences, and the increasing dominance of a digital-first audience. Our core objective was to identify effective approaches to maximize ad performance, engagement, and revenue by deeply understanding how to best reach and connect with beauty consumers. To achieve this, our analysis encompassed a comprehensive evaluation of advertising inventory (ad platforms), spatial performance (geographic effectiveness), and creative assets (ad creatives), ultimately providing data-driven recommendations for sharper targeting and improved campaign outcomes.
 
 ## Core Question
 
