@@ -57,3 +57,8 @@ This presentation concludes that the beauty industry offers substantial growth p
 - Bahauddin Naseer
 - Ada Umeugo
 - Mariely Mena
+
+![Main Dashboard](https://github.com/user-attachments/assets/2f7e2a51-700c-440b-9bae-5ee0e5870b79)
+
+
+
