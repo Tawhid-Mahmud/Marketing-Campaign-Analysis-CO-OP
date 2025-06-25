@@ -1,3 +1,5 @@
+## Project Summary
+
 This project delivers actionable insights to optimize our advertising strategies for clients within the dynamic beauty sector. We recognize the industry's rapid innovation, evolving consumer preferences, and the increasing dominance of a digital-first audience. Our core objective was to identify effective approaches to maximize ad performance, engagement, and revenue by deeply understanding how to best reach and connect with beauty consumers. To achieve this, our analysis encompassed a comprehensive evaluation of advertising inventory (ad platforms), spatial performance (geographic effectiveness), and creative assets (ad creatives), ultimately providing data-driven recommendations for sharper targeting and improved campaign outcomes.
 
 ## Dashboard 
